@@ -1,0 +1,15 @@
+{
+    "name": "afei110/mypack",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "Afei110\\Mypack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "af"
+        }
+    ],
+    "require": {}
+}
